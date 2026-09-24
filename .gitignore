@@ -1,6 +1,5 @@
 node_modules/
 dist/
-.env
 .tools/
 *.log
 data/
@@ -10,3 +9,4 @@ skills-lock.json
 # Exit-code artifacts written by verify-ci.js
 *.exit
 docker-compose.local.yml
+config.bat
