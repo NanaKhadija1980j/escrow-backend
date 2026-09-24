@@ -10,3 +10,6 @@ skills-lock.json
 # Exit-code artifacts written by verify-ci.js
 *.exit
 docker-compose.local.yml
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
