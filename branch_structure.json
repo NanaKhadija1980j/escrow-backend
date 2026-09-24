@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/add-dockerfile",
+    "feat/ledger-range-tracker-improvements",
+    "fix/416-configure-dynamic-historical-sync-ranges-in-indexer-failover-recovery",
+    "fix/418-optimize-poller-throttling-parameters-in-indexer-failover-recovery",
+    "fix/435-write-format-exporters-inside-the-fee-deduction-calculator-module",
+    "fix/530-extract-the-duplicated-digit-limit-validator-shared-by-the-overflow-guard-utils",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/add-dockerfile": "main",
+    "feat/ledger-range-tracker-improvements": "main",
+    "fix/416-configure-dynamic-historical-sync-ranges-in-indexer-failover-recovery": "main",
+    "fix/418-optimize-poller-throttling-parameters-in-indexer-failover-recovery": "main",
+    "fix/435-write-format-exporters-inside-the-fee-deduction-calculator-module": "main",
+    "fix/530-extract-the-duplicated-digit-limit-validator-shared-by-the-overflow-guard-utils": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/add-dockerfile",
+    "feat/ledger-range-tracker-improvements",
+    "fix/416-configure-dynamic-historical-sync-ranges-in-indexer-failover-recovery",
+    "fix/418-optimize-poller-throttling-parameters-in-indexer-failover-recovery",
+    "fix/435-write-format-exporters-inside-the-fee-deduction-calculator-module",
+    "fix/530-extract-the-duplicated-digit-limit-validator-shared-by-the-overflow-guard-utils",
+    "origin"
+  ]
+}
